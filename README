@@ -1,0 +1,10 @@
+We will be solving Node Classification problem using GAT layers and multi-head attention.
+Dataset: https://pytorch-geometric.readthedocs.io/en/latest/_modules/torch_geometric/datasets/amazon.html
+
+Graph Structure: The dataset is represented as a graph, where nodes correspond to products,
+and edges indicate co-purchasing relationships between products. If two products are frequently
+purchased together, there is an edge connecting them in the graph.
+
+
+Node Features: Each node (product) has associated features. These features could include
+information about the product itself, such as its category, price, or other relevant attributes.
