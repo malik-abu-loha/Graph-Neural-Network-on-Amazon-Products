@@ -9,4 +9,5 @@ purchased together, there is an edge connecting them in the graph.
 Node Features: Each node (product) has associated features. These features could include
 information about the product itself, such as its category, price, or other relevant attributes.
 
-Outcome: We managed to pass the scientific paper (https://arxiv.org/pdf/1811.05868.pdf%20) in terms of correctly predicting more nodes using GAT layer by couple percents.
+Outcome: We managed to pass the Pitfalls of Graph Neural Network Evaluation scientific paper in terms of correctly predicting more nodes using GAT layers.
+Accuracy: 89.75
